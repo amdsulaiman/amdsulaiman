@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sulaiman</h1>
-<h3 align="center">A passionate ios developer</h3>
+<h3 align="center">A passionate mobile application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsulaiman4046&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsulaiman4046" /> </p>
 
