@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sulaiman</h1>
 <h3 align="center">A passionate mobile application developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsulaiman4046&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsulaiman4046" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amdsulaiman&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsulaiman4046" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsulaiman4046" alt="mohammedsulaiman4046" /></a> </p>
 
