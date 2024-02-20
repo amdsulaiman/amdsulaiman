@@ -20,6 +20,6 @@
         <li>Firebase</li>
     </ul>
     <h3>Contact</h3>
-    <p>You can reach out to me via email at <a href="mailto:amdsulaiman17@gmail.com">your.email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/amdsulaiman/">LinkedIn</a>.</p>
+    <p>You can reach out to me via email at <a href="mailto:amdsulaiman17@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/amdsulaiman/">LinkedIn</a>.</p>
 </body>
 </html>
