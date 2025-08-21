@@ -39,9 +39,9 @@ Xcode, Android Studio, VS Code, IntelliJ IDEA, Postman, GitHub, Jira, FileZilla
 
 ## 🚀 Notable Projects
 
-- **AI Bot:** NLP-powered chatbot to reduce support workload and improve response times.  
-- **Bluetooth Wearable App:** Companion app for health tracking with **CoreBluetooth** integration.  
-- **Uber Clone:** Native ride-hailing app with **Firebase** and **Google Maps**, enabling live driver tracking.  
+- **[Uber Clone](https://github.com/amdsulaiman/Uber):** A native iOS ride-hailing app built with Swift and Firebase, featuring live driver tracking and real-time ride requests.  
+- **[SpaceX GO!](https://github.com/amdsulaiman/SpaceX):** An iOS app providing a lightweight and fast interface to explore SpaceX launches, missions, and news, utilizing the open-source r/SpaceX REST API.  
+- **[Deliveroo Clone](https://github.com/amdsulaiman/Deliveroo):** A food delivery app developed using React Native, featuring navigation, Redux state management, and integration with Sanity.io for content management.
 
 ---
 
